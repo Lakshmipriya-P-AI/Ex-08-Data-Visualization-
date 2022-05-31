@@ -157,21 +157,16 @@ plt.show()
 ### 3.Boxplot
 <img width="252" alt="171088266-a16dba86-8fc1-4f39-a43e-8946245952ed" src="https://user-images.githubusercontent.com/93427923/171088754-3890f6c2-367e-445c-a765-06d00d3ddaac.png">
 <img width="283" alt="171088275-5fc74eac-6c9c-4751-9a25-a6bb396b51b0" src="https://user-images.githubusercontent.com/93427923/171088761-15fda74d-be7f-4608-850a-7a1eefda3794.png">
-<img width="229" alt="171088288-b57cfa86-14ca-4da3-be85-2aedda3ef070" src="https://user-images.githubusercontent.com/93427923/171088767-3318d409-e3c4-4fe0-bdeb-2d15b065ca2e.png">
 
 ### 4.Violin Plot
-<img width="362" alt="171088300-2f65fe18-2157-4408-93b9-621db48d3fe5" src="https://user-images.githubusercontent.com/93427923/171088782-b324b7
-f6-e83d-4c0f-8e7d-c7b94e6e357d.png">
+<img width="229" alt="171088288-b57cfa86-14ca-4da3-be85-2aedda3ef070" src="https://user-images.githubusercontent.com/93427923/171088767-3318d409-e3c4-4fe0-bdeb-2d15b065ca2e.png">
 
 ### 5.Barplot
-<img width="248" alt="171088309-f8fc728a-98de-46da-af45-5504501865a5" src="https://user-images.githubusercontent.com/93427923/171088791-30d986fc-d0d2-4bd4-b8da-599a4722ecec.png">
-<img width="258" alt="171088319-54fd42f2-c10d-4696-ab1d-cf26b67876ab" src="https://user-images.githubusercontent.com/93427923/171088795-c4cc4476-1f10-4843-8cda-f216d4248e80.png">
-
-
-<img width="267" alt="171088340-ac5e9f66-7ecd-4fbc-b58f-0e8a9c854f58" src="https://user-images.githubusercontent.com/93427923/171088801-48de7684-d930-4dc4-bd14-cc40c9876d2a.png">
+<img width="362" alt="171088300-2f65fe18-2157-4408-93b9-621db48d3fe5" src="https://user-images.githubusercontent.com/93427923/171089815-87623575-7a7b-4e7d-9ae9-fa02ce1e2ce9.png">
+<img width="248" alt="171088309-f8fc728a-98de-46da-af45-5504501865a5" src="https://user-images.githubusercontent.com/93427923/171089833-66fb20a0-3db1-40db-882c-3a504f32199e.png">
 
 6.Pointplot
-<img width="258" alt="171088373-3b644c23-eb34-4c62-9854-7beedc247c8e" src="https://user-images.githubusercontent.com/93427923/171088806-655d8df7-f27d-4105-a695-d58d9a93b093.png">
+<img width="258" alt="171088319-54fd42f2-c10d-4696-ab1d-cf26b67876ab" src="https://user-images.githubusercontent.com/93427923/171089867-02323cb7-f1c1-44ad-aae7-c92129e9c3bd.png">
 
 7.Count plot
 <img width="281" alt="171088392-27dc5b70-ca70-4069-ac16-50edbcb51fb0" src="https://user-images.githubusercontent.com/93427923/171088816-69928057-e5ef-462a-a7a6-6f7955b9d16b.png">
