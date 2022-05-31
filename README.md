@@ -3,10 +3,10 @@
 ## AIM
 To Perform Data Visualization on a complex dataset and save the data to a file. 
 
-# Explanation
+## Explanation
 Data visualization is the graphical representation of information and data. By using visual elements like charts, graphs, and maps, data visualization tools provide an accessible way to see and understand trends, outliers, and patterns in data.
 
-# ALGORITHM
+## ALGORITHM
 ### STEP 1
 Read the given Data
 ### STEP 2
@@ -162,19 +162,16 @@ plt.show()
 <img width="283" alt="171088275-5fc74eac-6c9c-4751-9a25-a6bb396b51b0" src="https://user-images.githubusercontent.com/93992063/171088821-f94c7dc4-aa1d-43c1-ab84-8d84af736efb.png">
 
 ### 4.Violin Plot
-
 <img width="229" alt="171088288-b57cfa86-14ca-4da3-be85-2aedda3ef070" src="https://user-images.githubusercontent.com/93992063/171088926-239ae44b-4649-42ce-b52e-a6b26cc217f3.png">
 
 ### 5.Barplot
 <img width="362" alt="171088300-2f65fe18-2157-4408-93b9-621db48d3fe5" src="https://user-images.githubusercontent.com/93992063/171088936-2cefc282-8343-445d-9545-8ba91f5c69d9.png">
-
 <img width="248" alt="171088309-f8fc728a-98de-46da-af45-5504501865a5" src="https://user-images.githubusercontent.com/93992063/171088941-cc06dd62-0713-4963-8470-b91fcfe03c57.png">
 
 ### 6.Pointplot
 <img width="258" alt="171088319-54fd42f2-c10d-4696-ab1d-cf26b67876ab" src="https://user-images.githubusercontent.com/93992063/171089031-2815c863-58f8-49a0-a276-c82d18e013d5.png">
 
 ### 7.Count plot
-
 <img width="267" alt="171088340-ac5e9f66-7ecd-4fbc-b58f-0e8a9c854f58" src="https://user-images.githubusercontent.com/93992063/171089112-95028c42-efbb-48bc-a4f9-99bc774e506e.png">
 <img width="258" alt="171088373-3b644c23-eb34-4c62-9854-7beedc247c8e" src="https://user-images.githubusercontent.com/93992063/171089127-9b367b72-de86-4fb3-9ce4-4954afb16e90.png">
 
@@ -192,18 +189,14 @@ plt.show()
 <img width="381" alt="171088793-a39c19c3-f481-4837-a9ab-c59bbbb80b72" src="https://user-images.githubusercontent.com/93992063/171089457-c8c4fc0a-1262-41f2-8d31-ffa71daa0ae6.png">
 
 ### 3.Piechart
-
-
 <img width="168" alt="171088813-8407fd7d-2c62-41f5-9e0d-25242f9576ac" src="https://user-images.githubusercontent.com/93992063/171089653-0b9254e6-69e7-43bc-be30-7c787edf8216.png">
-
 <img width="288" alt="171088875-f1b23ed9-0c39-4061-aeeb-bd21c3943308" src="https://user-images.githubusercontent.com/93992063/171089725-6e50a256-7e7a-4162-a533-91fc1c913fc4.png">
+
 ### 4.Histogram
 <img width="245" alt="171088893-37660289-6bfa-4274-94b9-f9c10373a8a4" src="https://user-images.githubusercontent.com/93992063/171089939-70d1d2b6-24a8-4fd2-aa4e-c1bfb516f403.png">
 
-
 ### 5.Bargraph
 <img width="279" alt="171088899-506a8bfe-128b-44a6-aea9-6ad9d68d27e7" src="https://user-images.githubusercontent.com/93992063/171089907-bb79c79f-62b9-4539-a754-1205aab99ac7.png">
-
 
 ### 6.Scatterplot
 <img width="248" alt="171088911-4bc14fcd-490e-40bc-a732-d8e733ca4713" src="https://user-images.githubusercontent.com/93992063/171089883-9d4ba8c0-d896-44e0-847c-c4ddb466c61c.png">
@@ -212,7 +205,8 @@ plt.show()
 
 <img width="261" alt="171088927-6bb49da4-25fe-4f10-8dab-11a1f0b68c88" src="https://user-images.githubusercontent.com/93992063/171089859-b1c8d695-4e4b-426e-9718-c84bdc1d75de.png">
 
-
+# RESULT
+Hence,Data Visualization is applied on the complex dataset using libraries like Seaborn and Matplotlib successfully and the data is saved to file.
 
 
 
